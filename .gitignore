@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+data/*.db
+data/*.sqlite*
+reports/*
+!reports/.gitkeep
+!data/.gitkeep
+*.wav
+*.mp3
+*.mp4
+*.mov
+*.avi
+
